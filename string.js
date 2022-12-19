@@ -1,3 +1,1 @@
-var str = "hello\nworld"
-console.log(str);
-
+let day;
